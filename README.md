@@ -159,7 +159,7 @@ end.
 ```
 Часть 2:
 
-![alt text](Screen1.png "Условие задания")​
+![alt text](Screen2.png "Условие задания")​
 
 > Delphi
 ```Delphi
