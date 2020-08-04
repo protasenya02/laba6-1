@@ -1,10 +1,10 @@
-# **Задание 42**
+# **Задание 5**
 
 ![alt text](Screen.png "Условие задания")​
 
 > Delphi
 ```Delphi
- program project3;
+ program laba7;
 
 {$APPTYPE CONSOLE}
 {$R *.res}
