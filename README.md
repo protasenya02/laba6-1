@@ -1,4 +1,5 @@
 # **Задание 5**
+Часть 1:
 
 ![alt text](Screen.png "Условие задания")​
 
@@ -155,5 +156,7 @@ begin
 
   readln;
 end.
-
 ```
+Часть 2:
+
+![alt text](part1.png)
